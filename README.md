@@ -1,7 +1,36 @@
 <p align="center">
   <img height="40" src="https://github.com/"/>
 
+What we offer <br>
+IoT Device Penetration Testing <br>
 
+Embedded Device Security Assessment <br>
+
+SDR Exploitation <br>
+ 
+Infrastructure Security Assessment <br>
+
+WEB / API / Mobile Application Security Assessment <br>
+
+Secure Code Review <br>
+
+Red Teaming <br>
+
+Physical Pentest <br>
+
+Scenario-Based Penetration Testing <br>
+
+SS7 Penetration testing <br>
+
+Diameter Penetration Testing <br>
+
+Telecom Technical Security Assessment <br>
+
+Telecom components configuration Security Review <br>
+
+Telecom Network Elements vulnerability analysis <br>
+
+Coordination and Assistance for Third-Party Risk Advisory Certification <br>
 
 
   SS7 / SIGTRAN Penetration Testing <br>
