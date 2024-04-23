@@ -1,0 +1,1 @@
+Penetration testing your telecom network on a regular basis enables you to assess your organization's capability and endurance in protecting the network, systems, endpoints, and users from current and emerging internal and external threats.
